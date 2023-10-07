@@ -121,7 +121,7 @@
     require 'includes/header.php';
 ?>
 
-    <h1 class="encabezado-principal encabezado__principal--index">FORMULARIO DE CONTACTO</h1>
+    <h1 class="encabezado-principal">FORMULARIO DE CONTACTO</h1>
     <div class="contenedor contenido-form">
         <form class="formulario" method="POST" action="http://localhost/pqrs230831/index.php">
 
